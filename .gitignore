@@ -32,7 +32,7 @@ ENV/
 .ipynb_checkpoints
 
 # Large models
-*.safetensors
+#*.safetensors
 *.ckpt
 *.bin
 output_dir/
