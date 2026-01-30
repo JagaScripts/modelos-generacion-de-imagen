@@ -1,0 +1,10 @@
+torch>=2.0.0
+torchvision
+diffusers
+transformers
+accelerate
+datasets
+huggingface_hub
+scipy
+ftfy
+pypdf
